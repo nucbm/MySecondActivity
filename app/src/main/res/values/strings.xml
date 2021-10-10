@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Two Activities</string>
+    <string name="first_activity_title">aici titlul primei Activitati</string>
+    <string name="second_activity_title">a doua Activitate</string>
+</resources>
